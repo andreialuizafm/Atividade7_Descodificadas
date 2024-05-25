@@ -1,0 +1,31 @@
+div{
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    }
+
+#quadVer{
+    background-color: red;
+
+}
+#quadAzu{
+    background-color: blue;
+}
+#quadVerd{
+    background-color: green;
+
+}
+#quadAm{
+    background-color: yellow;
+}
+
+#quadVer:hover {
+    background-color: white;
+    }
+
+p{
+    margin-top: -3px;
+    margin-bottom: -3px;
+    padding-top: 0px;
+}
